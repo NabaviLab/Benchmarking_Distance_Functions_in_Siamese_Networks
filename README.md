@@ -9,8 +9,6 @@ This repository contains the implementation of our benchmarking methods for the 
 ## Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Datasets](#datasets)
 
 ## Introduction
 
